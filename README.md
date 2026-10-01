@@ -71,7 +71,6 @@ void loop() {
   delay(1000);
 }
 ​```
-
 ## Demo Video
 [https://youtu.be/1ha5R7eo1Lw?si=eOJAtkasAZ7w2irz]
 
